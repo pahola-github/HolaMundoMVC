@@ -7,7 +7,7 @@ package application;
 
 /**
  * This is the application clase for the hello world MVC app.
- * @author 2dam
+ * @author Paola Marquez
  */
 public class Application {
 
